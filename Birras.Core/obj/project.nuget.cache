@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5f0JR73TulHf24SP7jcWIBAPhM/xlSMzBZrKDqPqXdPVa47FvWCs21iWiBL4/4/2xgVwSZxBMT5j3fklpVUE0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HernanCastillo\\Documents\\GitHub\\Birras\\BirrasNetCoreApi\\Birras.Core\\Birras.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HernanCastillo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\HernanCastillo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

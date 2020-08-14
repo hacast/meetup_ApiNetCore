@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Birras.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Birras.Api.Controllers.AttendanceController.GetAttendanceByUser(System.Int32)">
+            <summary>
+            Obtiene las invitaciones por usuario
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Birras.Api.Controllers.AttendanceController.GetAttendancesAcepted(System.Int32)">
+            <summary>
+            Obtiene las invitaciones aceptadas por usuario
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Birras.Api.Controllers.AttendanceController.GetAttendancesDeclined(System.Int32)">
+            <summary>
+            Obtiene las invitaciones declinadas por usuario
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Birras.Api.Controllers.AttendanceController.GetAttendancesChecked(System.Int32)">
+            <summary>
+            Obtiene las invitaciones con CheckIn por usuario
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Birras.Api.Controllers.AttendanceController.CreateAttendance(Birras.Core.DTOs.AttendanceDTO)">
+            <summary>
+            Crear una invitacion para un usuario
+            </summary>
+            <param name="attDTO"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Birras.Api.Controllers.AttendanceController.Put(Birras.Core.DTOs.AttendanceDTO)">
+            <summary>
+            Actualiza una invitacion por usuario
+            </summary>
+            <param name="attDTO"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Birras.Api.Controllers.AttendanceController.GetAttendancesAceptedByMeet(System.Int32)">
+            <summary>
+            Obtiene las invitaciones aceptadas por Reunion
+            </summary>
+            <param name="idReunion"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Birras.Api.Controllers.LoginController.GetToken(Birras.Core.Entities.UserLogin)">
+            <summary>
+            Obtiene un JsonWebToken para un usuario valido
+            </summary>
+            <param name="userLogin"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Birras.Api.Controllers.MeetController.GetMeets">
+            <summary>
+            Obtiene todas las reuniones
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Birras.Api.Controllers.MeetController.GetMeetsByCreator(System.Int32)">
+            <summary>
+            Obtienes las reuniones por Usuario Creador
+            </summary>
+            <param name="idUsuarioCreador"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Birras.Api.Controllers.MeetController.GetMeet(System.Int32)">
+            <summary>
+            Obtiene la reunion por Id Reunion
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Birras.Api.Controllers.MeetController.CreateMeet(Birras.Core.DTOs.MeetDTO)">
+            <summary>
+            Crear una nueva reunion
+            </summary>
+            <param name="meetDTO"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Birras.Api.Controllers.MeetController.Put(System.Int32,Birras.Core.DTOs.MeetDTO)">
+            <summary>
+            Actualiza una reunion
+            </summary>
+            <param name="id"></param>
+            <param name="meetDTO"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Birras.Api.Controllers.MeetController.Delete(System.Int32)">
+            <summary>
+            Borra una reunion
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Birras.Api.Controllers.UserController.GetUsers">
+            <summary>
+            Obtiene todos los usuarios
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Birras.Api.Controllers.UserController.GetUserByName(System.String)">
+            <summary>
+            Obtiene el usuario por Nombre
+            </summary>
+            <param name="nombre"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Birras.Api.Controllers.UserController.GetUserToInvite(System.Int32)">
+            <summary>
+            Obtiene los usuarios disponibles a invitar
+            </summary>
+            <param name="idReunion"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

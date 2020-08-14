@@ -1,0 +1,12 @@
+C:\Users\HernanCastillo\Documents\GitHub\Birras\BirrasNetCoreApi\Birras.Infrastructure\bin\Release\netstandard2.0\Birras.Infrastructure.deps.json
+C:\Users\HernanCastillo\Documents\GitHub\Birras\BirrasNetCoreApi\Birras.Infrastructure\bin\Release\netstandard2.0\Birras.Infrastructure.dll
+C:\Users\HernanCastillo\Documents\GitHub\Birras\BirrasNetCoreApi\Birras.Infrastructure\bin\Release\netstandard2.0\Birras.Infrastructure.pdb
+C:\Users\HernanCastillo\Documents\GitHub\Birras\BirrasNetCoreApi\Birras.Infrastructure\bin\Release\netstandard2.0\Birras.Core.dll
+C:\Users\HernanCastillo\Documents\GitHub\Birras\BirrasNetCoreApi\Birras.Infrastructure\bin\Release\netstandard2.0\Birras.Core.pdb
+C:\Users\HernanCastillo\Documents\GitHub\Birras\BirrasNetCoreApi\Birras.Infrastructure\obj\Release\netstandard2.0\Birras.Infrastructure.csprojAssemblyReference.cache
+C:\Users\HernanCastillo\Documents\GitHub\Birras\BirrasNetCoreApi\Birras.Infrastructure\obj\Release\netstandard2.0\Birras.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\HernanCastillo\Documents\GitHub\Birras\BirrasNetCoreApi\Birras.Infrastructure\obj\Release\netstandard2.0\Birras.Infrastructure.AssemblyInfo.cs
+C:\Users\HernanCastillo\Documents\GitHub\Birras\BirrasNetCoreApi\Birras.Infrastructure\obj\Release\netstandard2.0\Birras.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\HernanCastillo\Documents\GitHub\Birras\BirrasNetCoreApi\Birras.Infrastructure\obj\Release\netstandard2.0\Birras.Infrastructure.csproj.CopyComplete
+C:\Users\HernanCastillo\Documents\GitHub\Birras\BirrasNetCoreApi\Birras.Infrastructure\obj\Release\netstandard2.0\Birras.Infrastructure.dll
+C:\Users\HernanCastillo\Documents\GitHub\Birras\BirrasNetCoreApi\Birras.Infrastructure\obj\Release\netstandard2.0\Birras.Infrastructure.pdb
